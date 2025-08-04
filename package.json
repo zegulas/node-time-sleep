@@ -1,6 +1,6 @@
 {
   "name": "node-time-sleep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Python-like time.sleep(ms) for Node.js — non-blocking sleep using async/await",
   "license": "MIT",
   "author": "zegulas",
@@ -21,12 +21,11 @@
     "non-blocking"
   ],
   "repository": {
-  "type": "git",
-  "url": "https://github.com/zegulas/node-time-sleep.git"
-},
-"homepage": "https://github.com/zegulas/node-time-sleep#readme",
-"bugs": {
-  "url": "https://github.com/zegulas/node-time-sleep/issues"
-}
-
+    "type": "git",
+    "url": "https://github.com/zegulas/node-time-sleep.git"
+  },
+  "homepage": "https://github.com/zegulas/node-time-sleep#readme",
+  "bugs": {
+    "url": "https://github.com/zegulas/node-time-sleep/issues"
+  }
 }
