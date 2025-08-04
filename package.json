@@ -1,0 +1,23 @@
+{
+  "name": "node-time-sleep",
+  "version": "1.0.0",
+  "description": "Python-like time.sleep(ms) for Node.js — non-blocking sleep using async/await",
+  "license": "MIT",
+  "author": "zegulas",
+  "type": "commonjs",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sleep",
+    "await",
+    "time.sleep",
+    "async",
+    "delay",
+    "pause",
+    "timer",
+    "non-blocking"
+  ]
+}
